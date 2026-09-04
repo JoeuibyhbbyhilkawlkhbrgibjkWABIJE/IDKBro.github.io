@@ -1,3 +1,10 @@
+html {
+  /* px means "pixels". The base font size is now 10 pixels high */
+  font-size: 10px;
+  /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
+  "Manufacturing Consent", system-ui;
+}
+
 p {
   color: red;
   width: 500px;
