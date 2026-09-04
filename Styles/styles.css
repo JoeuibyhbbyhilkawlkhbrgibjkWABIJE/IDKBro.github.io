@@ -1,0 +1,10 @@
+p {
+  font-family: sans-serif;
+  color: red;
+}
+
+li {
+  background-color: greenyellow;
+  border: 1px solid black;
+  margin-bottom: 5px;
+}
