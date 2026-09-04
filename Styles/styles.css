@@ -3,6 +3,15 @@ html {
   font-size: 10px;
   /* Replace PLACEHOLDER with the font-family property value you got from Google Fonts */
   font-family: "Manufacturing Consent", system-ui;
+  background-color: #00539f;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #ff9500;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
 }
 
 h1 {
@@ -15,4 +24,10 @@ li {
   font-size: 16px;
   line-height: 2;
   letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
 }
